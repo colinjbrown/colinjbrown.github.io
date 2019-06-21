@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science, University of Massachusetts Dartmouth, 2018
+* M.S. in Data Science, University of Massachusetts Dartmouth, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017 - Summer 2018: Undergraduate Research Assistant
+  * University of Massachusetts Dartmouth
+  * Duties included: Ready Dataflow Kernel for Alpha, Creation of conversion process for Dataflow Kernel
+  * Supervisor: David Koop
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018 - Current: Graduate Research Assistant
+  * University of Massachusetts Dartmouth
+  * Duties included: Supervising of Undergraduate Assistant, Feature Development, Merging pull requests, Documentation Creation, Further Research and Development
+  * Supervisor: David Koop
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* Docker
+* Flask
+* Javascript
+* MongoDB
+* SQL
+* Spark
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+To be updated soon.
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentor Role to Big Data Club at UMass Dartmouth
+* Participant as Mentor in Datafest Event
+#* Currently signed in to 43 different slack teams

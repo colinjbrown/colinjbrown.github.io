@@ -1,6 +1,6 @@
 ---
 title: "Dataflow Kernel"
-excerpt: "Dataflow Python Kernel to encourage reproducibility in Jupyter Notebook'>"
+excerpt: "Dataflow Python Kernel to encourage reproducibility in Jupyter Notebook"
 collection: portfolio
 ---
 
@@ -12,5 +12,7 @@ The project relies on recursive dependency calculation, it also allows for the u
 
 
 Related Projects that I've worked on:
+<br/>
 <a href='https://github.com/dataflownb/dfconvert'>Dfconvert</a> - A project created to convert Notebooks back to IPython Notebooks
+<br/>
 <a href='https://github.com/dataflownb/dfexamples'>Dfexamples</a> - A repository to allow users to interact with several example Notebooks written for the Dataflow Kernel

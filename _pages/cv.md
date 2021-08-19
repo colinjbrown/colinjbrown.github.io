@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Data Science, University of Massachusetts Dartmouth, 2018
-* M.S. in Data Science, University of Massachusetts Dartmouth, 2019
+* M.S. in Data Science, University of Massachusetts Dartmouth, 2021
 
 Work experience
 ======
